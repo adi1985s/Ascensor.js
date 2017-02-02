@@ -1,0 +1,4 @@
+Skrypt Ascensor umożliwia tworzenie menu w formie bloków ułożonych w rożny sposób.
+Jeden blok to jedna strona. Na dole pojawia się układ bloków menu reprezentujących strony. 
+Po klikaniu na menu strona przesuwa się do następnej, zgonie z ułożeniem bloków. 
+Efekt przypomina jeżdżenie windą.
